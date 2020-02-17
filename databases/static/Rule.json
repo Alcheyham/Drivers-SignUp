@@ -1,0 +1,25 @@
+{
+    "ehliyetTipi":
+    {
+        "Eski": 
+        {
+            "A1": "Motorsiklet",
+            "B": ["Otomobil","Minibüs","Kamyonet"],
+            "C": ["Kamyon" , "Kamyonet" , "Minibüs" , "Otomobil"],
+            "D": ["Çekici" , "Kamyon" , "Kamyonet" , "Minibüs" , "Otomobil"],
+            "E": ["Otobüs","Çekici","Kamyon","Kamyonet","Minibüs"],
+            "F": "Traktör",
+            "G": "İş Makinesi"
+        },
+        "Yeni": 
+        {
+            "A": "Motorsiklet",
+            "B1": ["Otomobil","Kamyonet"],
+            "C1E": ["Tır" , "Kamyon" , "Kamyonet" , "Otomobil"],
+            "D": ["Otobüs" , "Kamyon" , "Minibüs" , "Otomobil"],
+            "D1E": ["Otobüs","Çekici","Kamyon","Kamyonet","Minibüs","Otomobil"],
+            "F": "Traktör",
+            "G": "İş Makinesi"
+        }
+    }
+}

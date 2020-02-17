@@ -1,0 +1,44 @@
+[
+    {
+        "TCKimlik": "49355235320",
+        "ad": "Cenk",
+        "ehliyetTipi": "Yeni",
+        "ehliyetSinifi": "C1E",
+        "kullanabildigiAraclar": "Tır, Kamyon, Kamyonet, Otomobil"
+    },
+    {
+        "TCKimlik": "83575236912",
+        "ad": "Metin",
+        "ehliyetTipi": "Yeni",
+        "ehliyetSinifi": "D1E",
+        "kullanabildigiAraclar": "Otobüs, Çekici, Kamyon, Kamyonet, Minibüs, Otomobil"
+    },
+    {
+        "TCKimlik": "65935235924",
+        "ad": "Ahmet",
+        "ehliyetTipi": "Yeni",
+        "ehliyetSinifi": "C1E",
+        "kullanabildigiAraclar": "Tır, Kamyon, Kamyonet, Otomobil"
+    },
+    {
+        "TCKimlik": "79365235932",
+        "ad": "Nejdet",
+        "ehliyetTipi": "Yeni",
+        "ehliyetSinifi": "C1E",
+        "kullanabildigiAraclar": "Tır, Kamyon, Kamyonet, Otomobil"
+    },
+    {
+        "TCKimlik": "19539545450",
+        "ad": "Halil",
+        "ehliyetTipi": "Yeni",
+        "ehliyetSinifi": "D",
+        "kullanabildigiAraclar": "Otobüs, Kamyon, Minibüs, Otomobil"
+    },
+    {
+        "TCKimlik": "71115235728",
+        "ad": "Fevzi",
+        "ehliyetTipi": "Eski",
+        "ehliyetSinifi": "G",
+        "kullanabildigiAraclar": "İş Makinesi"
+    }
+]
